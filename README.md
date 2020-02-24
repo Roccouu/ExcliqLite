@@ -31,7 +31,7 @@ Al tratarse de un Complemento de Excel, requiere ser tratado como tal:
   2.  Lleve el archivo descargado a la carpeta de *Complementos de Excel* o a la carpeta de *Centro de Confianza de Excel* (que debería ser su carpeta personalizada donde aloja sus archivos habilitados para macros de MS Excel).
   3.  Abra Excel y vaya a: ***Opciones de Excel > Complementos > Administrar > Ir...*** y en el cuadro de diálogo busque el archivo Excliq Lite y habilítelo como un nuevo complemento.
 
-#### Collaborar via GitHub:
+## Collaborar via GitHub:
 El Código fuente de **Excliq Lite** se encuentra en: [La carpeta project-dev](https://github.com/Roccouu/ExcliqLite/tree/master/project-dev/ExcliqLite.xlsm) de este Repositorio oficial.
 Tras descargarlo, puede colaborar con mejoras al Sistema pero siempre respetando los términos de la [Licencia](https://github.com/Roccouu/ExcliqLite/blob/master/LICENSE), [El código de conducta](https://github.com/Roccouu/ExcliqLite/blob/master/CODE_OF_CONDUCT.md) y las normas de [Contribución](https://github.com/Roccouu/ExcliqLite/blob/master/CONTRIBUTING.md).
 
@@ -39,7 +39,7 @@ Clave de proyecto: excliqlite$
 
 ## Sitio Web
 
-[Excliq Lite](https://roccouu.github.io/ExcliqLite/docs/index.html)
+[Excliq Lite](https://roccouu.github.io/ExcliqLite/docs/)
 
 ## Tutorial
 
