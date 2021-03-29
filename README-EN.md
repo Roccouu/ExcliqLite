@@ -54,4 +54,4 @@ See the [CONTRIBUTING Guidelines](https://github.com/roccouu/ExcliqLite/CONTRIBU
 
 ## License
 
-[MIT](https://github.com/roccouu/ExcliqLite/blob/master/LICENSE) © | [Roccou](https://twitter.com/_roccou) | 2019
+[MIT](https://github.com/roccouu/ExcliqLite/blob/master/LICENSE) © | Roccou | <rocky.romay@gmail.com> | 2019
