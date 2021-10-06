@@ -2,20 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="hlp-excliq32.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="hlp-excliq32.svg"
+   inkscape:export-filename="E:\InfoProyectos\htdocs\msprojects\excliqliterepo\project-dev\assets\ribbonimages\finals\eql_img_v1.1.1\eqhelp\hlp-excliq32.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title815">Excliq Lite</title>
   <defs
@@ -28,10 +31,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="16.187727"
-     inkscape:cy="16.627296"
+     inkscape:cx="16.225575"
+     inkscape:cy="16.63595"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      units="px"
@@ -91,7 +94,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;fill:#158231;fill-opacity:1;stroke:none;stroke-width:0.13915126;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#195d38;fill-opacity:1;stroke:none;stroke-width:0.139151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect845"
        width="8.4666662"
        height="8.4666662"
@@ -108,16 +111,16 @@
        id="text876"
        y="6.3422093"
        x="2.9461179"
-       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.264583"
          y="6.3422093"
          x="2.9461179"
          id="tspan874"
          sodipodi:role="line">Lite</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#57ce96;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#57ce96;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="4.4325962"
        y="-6.5591717"
        id="text836"><tspan
@@ -125,10 +128,10 @@
          id="tspan834"
          x="4.4325962"
          y="-6.5591717"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57ce96;fill-opacity:1;stroke-width:0.26458332">Lite</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57ce96;fill-opacity:1;stroke-width:0.264583">Lite</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-0.059255771"
        y="3.9535916"
        id="text840"><tspan
@@ -136,71 +139,71 @@
          id="tspan838"
          x="-0.059255771"
          y="3.9535916"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332">Excliq</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583">Excliq</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Capa 4"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        aria-label="Lite"
-       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#57e096;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#57e096;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="text876-9">
       <path
          d="M 3.192787,6.3422093 3.5993082,4.3027128 H 4.023744 L 3.6737223,6.0610895 h 0.9439562 l -0.0565,0.2811198 z"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.264583"
          id="path927"
          inkscape:connector-curvature="0" />
       <path
          d="M 4.8519449,6.3422093 5.1523573,4.8291234 H 5.5616346 L 5.2598443,6.3422093 Z M 5.2033447,4.5741863 5.2750027,4.2172744 H 5.682902 L 5.611244,4.5741863 Z"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.264583"
          id="path929"
          inkscape:connector-curvature="0" />
       <path
          d="m 6.5207493,6.328429 q -0.1405599,0.039963 -0.2742296,0.039963 -0.2218641,0 -0.3128146,-0.096463 -0.09095,-0.097841 -0.09095,-0.216352 0,-0.073036 0.026183,-0.2067057 L 6.0205215,5.0840605 H 5.8165718 L 5.8675592,4.8291234 H 6.0715089 L 6.1224963,4.5741863 6.5414199,4.5190648 6.4794082,4.8291234 H 6.7936009 L 6.7426135,5.0840605 H 6.4284208 L 6.2823487,5.8226889 q -0.017914,0.085438 -0.017914,0.1336697 0,0.078548 0.046853,0.1088651 0.048231,0.030317 0.097841,0.030317 0.081304,0 0.1653645,-0.034451 z"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.264583"
          id="path931"
          inkscape:connector-curvature="0" />
       <path
          d="m 8.1909316,6.1988934 q -0.216352,0.1005968 -0.4106554,0.1391818 -0.1929254,0.038585 -0.325217,0.038585 -0.1722548,0 -0.3100586,-0.067524 Q 7.0085748,6.2402342 6.9493191,6.118967 6.8900631,5.9976996 6.8900631,5.866786 q 0,-0.2659614 0.1419379,-0.5250326 0.141938,-0.2590712 0.3638021,-0.4023871 0.2218642,-0.1446941 0.469911,-0.1446941 0.1832791,0 0.285254,0.089573 0.1019748,0.089573 0.1019748,0.2328885 0,0.1653646 -0.1116211,0.3169488 Q 8.0310791,5.5842883 7.810593,5.6876412 7.5901069,5.789616 7.2952067,5.8061525 q 0.00827,0.1777669 0.095085,0.2384006 0.086816,0.059256 0.1943034,0.059256 0.1061089,0 0.289388,-0.053744 0.1832791,-0.053743 0.3803385,-0.1681206 z M 7.3255236,5.5525935 q 0.2742296,0 0.4092773,-0.1129992 0.1350478,-0.1143772 0.1350478,-0.2370226 0,-0.053743 -0.034451,-0.093706 -0.034451,-0.041341 -0.1019748,-0.041341 -0.1047309,0 -0.2273763,0.1226454 -0.1212674,0.1212674 -0.180523,0.3624234 z"
-         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#57e096;fill-opacity:1;stroke-width:0.264583"
          id="path933"
          inkscape:connector-curvature="0" />
     </g>
     <g
        aria-label="Excliq"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fffff4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fffff4;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="text840-2">
       <path
          d="M 0.1956813,3.9535916 V 1.914095 H 1.4703666 V 2.1938368 H 0.62011706 V 2.7629666 H 1.3174044 V 3.0440864 H 0.62011706 V 3.6642036 H 1.5351344 v 0.289388 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path914"
          inkscape:connector-curvature="0" />
       <path
          d="M 1.7321939,3.9535916 2.2517143,3.1942925 1.7542425,2.4405056 H 2.2186414 L 2.5438584,2.9200629 2.855295,2.4405056 H 3.1860242 L 2.711979,3.1832682 3.2204751,3.9535916 H 2.7560763 L 2.4170789,3.4533637 2.0698132,3.9535916 Z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path916"
          inkscape:connector-curvature="0" />
       <path
          d="m 4.6798176,3.9205187 q -0.253559,0.067524 -0.4726671,0.067524 -0.3886067,0 -0.5842882,-0.2287543 Q 3.4271809,3.529156 3.4271809,3.1956708 q 0,-0.3500217 0.2067057,-0.5691298 0.2067058,-0.2204861 0.6077149,-0.2204861 0.1846571,0 0.4258138,0.059256 v 0.2949002 q -0.250803,-0.081304 -0.3996311,-0.081304 -0.2122179,0 -0.3100586,0.1612304 -0.097841,0.1598525 -0.097841,0.3527778 0,0.1488281 0.0565,0.2783637 0.0565,0.1281576 0.1570963,0.1874132 0.1019749,0.059256 0.2287544,0.059256 0.1832791,0 0.3775824,-0.079926 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path918"
          inkscape:connector-curvature="0" />
       <path
          d="M 5.0684244,3.9535916 V 1.7776693 h 0.4078993 v 2.1759223 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path920"
          inkscape:connector-curvature="0" />
       <path
          d="m 5.9889538,3.9535916 v -1.513086 h 0.4078993 v 1.513086 z m 0,-1.768023 V 1.8451931 h 0.4078993 v 0.3403755 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path922"
          inkscape:connector-curvature="0" />
       <path
          d="M 7.861708,4.4979167 V 3.6683377 Q 7.78316,3.8281901 7.6591364,3.9081163 7.536491,3.9880423 7.3669923,3.9880423 q -0.2783637,0 -0.4313259,-0.2053277 -0.1529623,-0.2067057 -0.1529623,-0.544325 0,-0.3569119 0.1708768,-0.5939345 0.1708767,-0.2384006 0.4768012,-0.2384006 0.082682,0 0.1515842,0.017915 0.068902,0.016536 0.1322916,0.052365 0.06339,0.035829 0.1474501,0.1171333 L 7.912695,2.4405055 h 0.35829 v 2.0574111 z m 0,-1.6619141 Q 7.7762697,2.7395399 7.7004776,2.705089 7.6246855,2.670638 7.5461373,2.670638 q -0.1653646,0 -0.2480469,0.1598525 -0.081304,0.1584743 -0.081304,0.3734483 0,0.2122179 0.075792,0.3389974 0.07717,0.1254015 0.2218641,0.1254015 0.092329,0 0.181901,-0.06339 0.090951,-0.064768 0.1653646,-0.1694987 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222223px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.82222px;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffff4;fill-opacity:1;stroke-width:0.264583"
          id="path924"
          inkscape:connector-curvature="0" />
     </g>
@@ -213,7 +216,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="0.19594882"
        y="3.9063804"
        id="text7534"><tspan
@@ -221,42 +224,43 @@
          id="tspan7532"
          x="0.19594882"
          y="3.9063804"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Excliq</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.264583">Excliq</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Capa 5"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        id="path7668"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="M 0.87222383,3.5380804 H 1.8120238 v 0.3683 H 0.42137384 v -2.0574 H 1.7961488 v 0.365125 H 0.87222383 v 0.46355 H 1.6691488 l -0.0508,0.36195 H 0.87222383 Z" />
     <path
        inkscape:connector-curvature="0"
        id="path7670"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 3.0272054,3.1602554 0.4826,0.720725 v 0.0254 h -0.508 l -0.26035,-0.46355 -0.2921,0.46355 h -0.46355 v -0.0254 l 0.4953,-0.7112 -0.460375,-0.669925 v -0.022225 h 0.50165 l 0.24765,0.4191 0.24765,-0.4191 h 0.447675 v 0.022225 z" />
     <path
        inkscape:connector-curvature="0"
        id="path7672"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 4.2953699,3.9508304 q -0.31115,0 -0.511175,-0.1651 -0.200025,-0.1651 -0.200025,-0.561975 0,-0.269875 0.10795,-0.447675 0.111125,-0.180975 0.282575,-0.263525 0.17145,-0.08255 0.358775,-0.08255 0.13335,0 0.2413,0.03175 0.111125,0.028575 0.24765,0.1016 l -0.149225,0.282575 q -0.1016,-0.0508 -0.17145,-0.06985 -0.06985,-0.01905 -0.1397,-0.01905 -0.149225,0 -0.2413,0.117475 -0.0889,0.1143 -0.0889,0.346075 0,0.219075 0.0889,0.3048 0.092075,0.08255 0.238125,0.08255 0.0889,0 0.1651,-0.028575 0.079375,-0.028575 0.174625,-0.08255 l 0.1524,0.276225 q -0.276225,0.1778 -0.555625,0.1778 z" />
     <path
        inkscape:connector-curvature="0"
        id="path7674"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 5.0807357,3.9063804 v -2.1844 l 0.4318,-0.041275 v 2.225675 z" />
     <path
        inkscape:connector-curvature="0"
        id="path7676"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 6.1026393,2.2649054 q -0.073025,0 -0.136525,-0.034925 -0.0635,-0.0381 -0.1016,-0.098425 -0.0381,-0.060325 -0.0381,-0.13335 0,-0.073025 0.0381,-0.13335 0.0381,-0.0635 0.1016,-0.098425 0.0635,-0.0381 0.136525,-0.0381 0.0762,0 0.1397,0.0381 0.066675,0.034925 0.104775,0.098425 0.0381,0.060325 0.0381,0.13335 0,0.073025 -0.0381,0.13335 -0.0381,0.060325 -0.104775,0.098425 -0.0635,0.034925 -0.1397,0.034925 z m -0.20955,1.641475 v -1.419225 l 0.4318,-0.041275 v 1.4605 z" />
     <path
        inkscape:connector-curvature="0"
        id="path7678"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        d="m 7.4325179,2.4331804 q 0.1397,0 0.276225,0.022225 0.136525,0.01905 0.33655,0.085725 v 1.9558 h -0.4318 v -0.66675 q -0.1905,0.12065 -0.4064,0.12065 -0.295275,0 -0.4445,-0.187325 -0.14605,-0.187325 -0.14605,-0.536575 0,-0.288925 0.12065,-0.466725 0.123825,-0.1778 0.307975,-0.250825 0.18415,-0.0762 0.38735,-0.0762 z m -0.111125,1.1938 q 0.073025,0 0.142875,-0.022225 0.06985,-0.022225 0.149225,-0.066675 v -0.78105 q -0.0889,-0.01905 -0.168275,-0.01905 -0.174625,0 -0.2794,0.123825 -0.104775,0.12065 -0.104775,0.365125 0,0.200025 0.0635,0.301625 0.0635,0.098425 0.19685,0.098425 z" />
   </g>
 </svg>
