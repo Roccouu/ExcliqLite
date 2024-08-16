@@ -39,15 +39,15 @@ Clave de proyecto: excliqlite$
 
 ## Sitio Web
 
-[Excliq Lite](https://roccouu.github.io/ExcliqLite/docs/)
+[Excliq Lite](https://roccouu.github.io/ExcliqLite/)
 
 ## Tutorial
 
-[Excliq Lite tutorial](https://roccouu.github.io/ExcliqLite/docs/index.html#/tutorial)
+[Excliq Lite tutorial](https://roccouu.github.io/ExcliqLite/index.html#tutorial)
 
 ## Documentación
 
-[Excliq Lite Documentación](https://roccouu.github.io/ExcliqLite/index.html#/docs/index.html#/documentation)
+[Excliq Lite Documentación](https://roccouu.github.io/ExcliqLite/index.html#documentation)
 
 ## Términos de Contribución
 
